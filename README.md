@@ -32,7 +32,7 @@ After Completing all the required installments and the changes head over to Upti
 
 ```
 
-git clone https://github.com/Sidharth1607/DC_Guru_MusicBot.git
+git clone https://github.com/DC-Guru/DC_Guru_Music-Bot.git
 
 cd DC_Guru_MusicBot
 
@@ -46,7 +46,7 @@ After installation finishes you can use `node index.js` to start the bot.
 
 **Tap on this --**
 
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/gtagamermods/admusicbot)
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/EconomyBot)](https://repl.it/github/DC-Guru/DC_Guru_Music-Bot)
 
 ```
 
