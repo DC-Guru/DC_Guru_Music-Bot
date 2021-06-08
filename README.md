@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. How to obtain a Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
+1. How to obtain a Discord Bot Token and invite that bot to your srrver **[Guide](https://youtu.be/UOslXHp3Ptk)**
 
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 
