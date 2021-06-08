@@ -144,13 +144,13 @@ Examples: `1` or `1,2,3`
 
 `>>playlist https://www.youtube.com/playlist?list=PLeiP6sSl8XyF7qcJ7WR6FjkpKtNBtzkqe`
 
-![playlist](https://media.discordapp.net/attachments/806012341355151400/806012798236229633/playlistplay.png)
+![playlist](https://cdn.discordapp.com/attachments/770999676496248832/851801353999220736/Screenshot_2021-06-08-18-02-45-67.jpg)
 
 * 🔎 Play youtube playlists via search query
 
 `>>playlist NCS Releases`
 
-![search](https://media.discordapp.net/attachments/806012341355151400/806013517873676288/playlist.png)
+![search](https://cdn.discordapp.com/attachments/770999676496248832/851801354413539328/Screenshot_2021-06-08-18-02-12-19.jpg)
 
 **Commands of Our Bot**
 
@@ -184,7 +184,7 @@ Examples: `1` or `1,2,3`
 
 * Controls your Discord Bot via Reactions
 
-![reactions](https://media.discordapp.net/attachments/806012341355151400/806013954085617684/play.png)
+![reactions](https://cdn.discordapp.com/attachments/770999676496248832/851801353679667210/Screenshot_2021-06-08-18-03-51-91.jpg)
 
 Main Credits go to [@iCrawl](https://github.com/iCrawl) for making evobot successfully the best music bot...😍
 
